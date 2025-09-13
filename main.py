@@ -5,5 +5,5 @@ birthdays_reader = csv.reader(birthdays_file)
 print(type(birthdays_reader))
 
 for row in birthdays_reader:
-    print(row)
+    print(row[1])
     print(type(row))
