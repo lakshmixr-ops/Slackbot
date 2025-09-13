@@ -1,0 +1,1 @@
+#This project is to create Slack Birthday bot that will automatically post birthday messages to a Slack channel when it's the birthday of an individual
